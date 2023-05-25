@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\dot-net-6-docker.props" />
+</Project>

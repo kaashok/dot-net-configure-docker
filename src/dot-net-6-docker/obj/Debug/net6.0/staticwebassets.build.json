@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "2jDdCqpE2/9TuWGYb0fI6GTzgAGpfJgBryqWi21UAPk=",
+  "Source": "dot-net-6-docker",
+  "BasePath": "_content/dot-net-6-docker",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
