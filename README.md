@@ -1,5 +1,4 @@
-# dot-net-configure-docker
-.NET 6 Web API on Docker
+# NET 6 Web API on Docker
 
 # Steps:
 - Install Docker extension in VS Code
