@@ -19,5 +19,5 @@
 - Another way is to right-click on docker-compose.yml or docker-compose.debug.yml and select Compose Up to reproduce the same behavior as the command-line execution.
   ![image](https://github.com/kaashok/dot-net-configure-docker/assets/22614984/4634bc39-2db8-4e14-a23e-f76662ceb2f6)
     
-
+#Reference: https://amelspahic.com/net-6-on-docker-with-debugging
 
